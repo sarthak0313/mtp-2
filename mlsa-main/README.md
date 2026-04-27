@@ -10,12 +10,6 @@ This research extends the PINN method to the problems of second-order analysis o
 If you find our research and the provided source code useful, please consider citing our paper in your work.
 
 
-## Developed by:
-
-- [**Siwei Liu**](https://www.polyu.edu.hk/cee/people/academic-staff/dr-siwei-liu/) - Assistant Professor, The Hong Kong Polytechnic University. [**si-wei.liu@polyu.edu.hk**](mailto:si-wei.liu@polyu.edu.hk).
-- **Liang Chen** - Postdoctoral Fellow, The Hong Kong Polytechnic University. [**liang17.chen@connect.polyu.hk**](mailto:liang17.chen@connect.polyu.hk).
-- **Haoyi Zhang** - PhD Student, The Hong Kong Polytechnic University. [**haoyi.zhang@connect.polyu.hk**](mailto:haoyi.zhang@connect.polyu.hk).
-
 ## Requirements
 
 All codes were developed and tested on a Windows 11 machine with Python 3.8. The following packages are required to run the codes:
