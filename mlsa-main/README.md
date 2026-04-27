@@ -33,27 +33,5 @@ git clone https://github.com/zsulsw/mlsa.git
 ```
 - Run the "Main.py" file located in the "Source" folder.
 - Input the filename of the example from the "Examples" folder. You will see a list of file names showing the data files in the "Examples" folder. Please ensure that the data file is in JSON format and has been placed into the "Examples" folder.
-- For further information, please check this [publication](http://dx.doi.org/10.18057/IJASC.2023.19.4.10).
 
-## Citation
 
-If the source codes are useful, please cite the paper. [Click Here](http://dx.doi.org/10.18057/IJASC.2023.19.4.10).
-
-- Chen, L, Zhang H.Y., Liu, S.W. & Chan, S.L.:
-*"Second-order Analysis of Beam-columns by Machine Learning-based Structural Analysis through Physics-Informed Neural Networks"*,
-Advanced Steel Construction, 2023. 19, 411-420.
-[DOI](http://dx.doi.org/10.18057/IJASC.2023.19.4.10)
-
-```bibtex
-@article{Chen-Liang-2023,
-author = {Liang Chen, Hao-Yi Zhang, Si-Wei Liu and Siu-Lai Chan},
-doi = {10.18057/IJASC.2023.19.4.10},
-issn = {1816-112X},
-journal = {Advanced Steel Construction},
-pages = {411-420},
-title = {{Second-order Analysis of Beam-columns by Machine Learning-based Structural Analysis through Physics-Informed Neural Networks}},
-url = {http://dx.doi.org/10.18057/IJASC.2023.19.4.10},
-volume = {19},
-year = {2023}
-}
-```
